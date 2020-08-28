@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less 8 Interface 3", "..\Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less 8  abstract", "..\Less 8  abstract\Less 8  abstract.csproj", "{C76B2641-91C5-4A17-A57D-23C7EA977300}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less 8 virtual", "..\Less 8 virtual\Less 8 virtual.csproj", "{4FB0CC37-DBFB-4D6B-96D4-550081000606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less 8 Interface 4", "..\Less 8 Interface 4\Less 8 Interface 4.csproj", "{ACEF6BE7-5066-4B5B-9694-9050CA462D25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{C76B2641-91C5-4A17-A57D-23C7EA977300}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C76B2641-91C5-4A17-A57D-23C7EA977300}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C76B2641-91C5-4A17-A57D-23C7EA977300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB0CC37-DBFB-4D6B-96D4-550081000606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB0CC37-DBFB-4D6B-96D4-550081000606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB0CC37-DBFB-4D6B-96D4-550081000606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB0CC37-DBFB-4D6B-96D4-550081000606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACEF6BE7-5066-4B5B-9694-9050CA462D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACEF6BE7-5066-4B5B-9694-9050CA462D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACEF6BE7-5066-4B5B-9694-9050CA462D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACEF6BE7-5066-4B5B-9694-9050CA462D25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

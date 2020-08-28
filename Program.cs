@@ -11,7 +11,7 @@ namespace Less_8_Interface
         void Method();
     }
 
-     class A : IMyInterface
+     class A : Object, IMyInterface
     {
       public void  Method()
         {
